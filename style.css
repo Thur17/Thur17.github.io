@@ -17,4 +17,40 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    box-sizing:border-box;
+    padding: 0 112px;
+    position:relative;
+}
+
+h1{
+    font-size: 50px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+h2{
+   text-transform: uppercase;
+   letter-spacing: 4px;
+}
+
+.social-media{
+    margin-top: 1rem;
+    Display:flex
+}
+
+.social-media a {
+    text-decoration: none;
+    color: #1E1E2A;
+    padding: 1rem 4rem;
+    border: 1px solid #1E1E2A;
+    min-width: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: .5s ease-in-out;
+
 }
