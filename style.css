@@ -12,7 +12,7 @@ body{
 .header-container{
     height: 120vh;
     width: 100vw;
-    background-color: #60e17c;
+    /*background-color: #60e17c;*/
 
     background-image:;
     background-repeat: no-repeat;
@@ -38,6 +38,10 @@ h2{
    letter-spacing: 4px;
 }
 
+h3{
+   text-transform: uppercase;
+   letter-spacing: 4px;
+}
 .social-media{
     margin-top: 1rem;
     Display:flex
