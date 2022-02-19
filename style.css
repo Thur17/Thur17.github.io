@@ -12,7 +12,7 @@ body{
 .header-container{
     height: 120vh;
     width: 100vw;
-    /*background-color: #60e17c;*/
+    background-color: #60e17c;
 
     background-image:;
     background-repeat: no-repeat;
@@ -58,4 +58,50 @@ h3{
     justify-content: center;
     transition: .5s ease-in-out;
 
+}
+
+a:hover{
+    background-color: white;
+}
+
+/* menu Hamburguer*/ 
+
+.checkbox-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;    
+}
+
+.checkbox{
+  height: 100px;
+  width: 100px;
+  position: absolut;
+  right: 0;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 9999;
+  transition: 400ms ease-in-out 0s;
+}
+
+.checkbox .trace{
+    width: 50px;
+    height: 2px;
+    background-color: #1E1E2A;
+    position: absolute;
+    border-radius: 4px;
+    transition: 0.5s ease-in-out;
+}
+.checkbox .trace:nth-child(1) {
+    top: 26px;
+    transform: rotate(0);
+}
+.checkbox .trace:nth-child(2) {
+    top: 46px;
+    transform: rotate(0);
+}
+.checkbox .trace:nth-child(3) {
+    top: 66px;
+    transform: rotate(0);
 }
