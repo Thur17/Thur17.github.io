@@ -144,5 +144,9 @@ a:hover{
 
 .menu-itens ul li a {
     margin: 10px 0;
-    
+    color: #1E1E2A;
+    text-decoration: nome;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 40px;
 }
