@@ -1,20 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 body{
-    magin: 0;
+    margin: 0;
     padding: 0;
-    front-family: 'Poppins', sans serif; 
+    font-family: 'Poppins', sans-serif; 
     color: #1E1E2A;
 }
 
 /* Header */
 
 .header-container{
-    height: 120vh;
+    height: 100vh;
     width: 100vw;
     background-color: #60e17c;
 
-    background-image:;
+   /* background-image:;*/
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -75,7 +75,7 @@ a:hover{
 .checkbox{
   height: 100px;
   width: 100px;
-  position: absolut;
+  position: absolute;
   right: 0;
   top: 0;
   display: flex;
@@ -124,12 +124,13 @@ a:hover{
     transition: 400ms ease-in-out 0s;
 }
 
-.menu-itens {
+.menu-items {
  position: fixed;
  top: 0;
  left: 0;
  width: 100%;
  height: 100vh;
+ display: flex;
  justify-content: center;
  align-items: center;
  z-index: 2;
@@ -138,15 +139,48 @@ a:hover{
  transition: 400ms ease-in-out 0s;
 }
 
-.menu-itens ul{
+.menu-items ul{
     list-style-type: none;
 }
 
-.menu-itens ul li a {
+.menu-items ul li a {
     margin: 10px 0;
     color: #1E1E2A;
-    text-decoration: nome;
+    text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 4px;
     font-size: 40px;
+}
+
+/*Animação do menu*/
+
+#toggle:checked + .checkbox .trace:nth-child(1){
+    transform: rotate(45deg);
+    top: 47px;
+}
+
+#toggle:checked + .checkbox .trace:nth-child(2){
+    transform: translate(-100px);
+    width: 30px;
+    visibility: hidden;
+    opacity: 0;
+}
+
+#toggle:checked + .checkbox .trace:nth-child(3){
+    transform: rotate(-45deg);
+    top: 48px;
+}
+
+#togglr:checked + .checkbox {
+    background-color: #ffffff;
+}
+
+#toggle:checked ~ .menu{
+    box-shadow: 0px 0px 0px 100vmax #ffffff;
+    z-index: 1;
+}
+
+#toggle:checked ~ .menu-items{
+    visibility: visible;
+    opacity: 1;
 }
