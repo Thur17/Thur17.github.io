@@ -11,7 +11,7 @@ body{
 
 .header-container{
     height: 100vh;
-    width: 1000vw;
+    width: 100vw;
     background-color: #60e17c;
 
     /*background-image: url('');*/
@@ -23,7 +23,7 @@ body{
     justify-content: center;
     align-items: flex-start;
     box-sizing:border-box;
-    padding: 0 112px;
+    padding: 0 142px;
     position:relative;
 }
 
