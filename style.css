@@ -14,7 +14,7 @@ body{
     width: 100vw;
     background-color: #60e17c;
 
-   /* background-image:;*/
+    /*background-image: url('');*/
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -23,7 +23,7 @@ body{
     justify-content: center;
     align-items: flex-start;
     box-sizing:border-box;
-    padding: 0 112px;
+    padding: 0 142px;
     position:relative;
 }
 
