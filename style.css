@@ -4,7 +4,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif; 
-    color: #1E1E2A;
+    color: #ffffff;
 }
 
 /* Header */
@@ -12,9 +12,7 @@ body{
 .header-container{
     height: 100vh;
     width: 100vw;
-    background-color: #60e17c;
-
-    /*background-image: url('');*/
+    background-color: #39217a;
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -26,6 +24,22 @@ body{
     padding: 0 142px;
     position:relative;
 }
+
+.backgraud{
+    background-color: #39217a;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    box-sizing:border-box;
+    padding: 0 142px;
+    position:relative;
+}
+
+
 
 h1{
     font-size: 50px;
@@ -42,6 +56,7 @@ h3{
    text-transform: uppercase;
    letter-spacing: 4px;
 }
+
 .social-media{
     margin-top: 1rem;
     Display:flex
@@ -49,9 +64,26 @@ h3{
 
 .social-media a {
     text-decoration: none;
-    color: #1E1E2A;
+    color: #ffffff;
     padding: 1rem 4rem;
-    border: 1px solid #1E1E2A;
+    border: 1px solid #ffffff;
+    min-width: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: .5s ease-in-out;
+
+}
+.certificados{
+    margin-top: 1rem;
+    Display: block;
+}
+
+.certificados a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 1rem 2rem;
+    border: 1px solid #ffffff;
     min-width: 4rem;
     display: flex;
     align-items: center;
@@ -61,7 +93,7 @@ h3{
 }
 
 a:hover{
-    background-color: white;
+    background-color: #7862b4;
 }
 
 /* menu Hamburguer*/ 
@@ -88,7 +120,7 @@ a:hover{
 .checkbox .trace{
     width: 50px;
     height: 2px;
-    background-color: #1E1E2A;
+    background-color: #ffffff;
     position: absolute;
     border-radius: 4px;
     transition: 0.5s ease-in-out;
@@ -145,7 +177,7 @@ a:hover{
 
 .menu-items ul li a {
     margin: 10px 0;
-    color: #1E1E2A;
+    color: #ffffff;
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -172,15 +204,21 @@ a:hover{
 }
 
 #togglr:checked + .checkbox {
-    background-color: #ffffff;
+    background-color: #686fb1;
 }
 
 #toggle:checked ~ .menu{
-    box-shadow: 0px 0px 0px 100vmax #ffffff;
+    box-shadow: 0px 0px 0px 100vmax #686fb1;
     z-index: 1;
 }
 
 #toggle:checked ~ .menu-items{
     visibility: visible;
     opacity: 1;
+}
+
+figure {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
