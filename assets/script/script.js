@@ -1,1 +1,1 @@
-window.alert("seja Bem-Vindo!!")
+window.alert("Olá, meu nome o Arthur, Seja Bem-vindo!!")
