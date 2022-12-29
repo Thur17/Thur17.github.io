@@ -1,0 +1,27 @@
+https://www.ev.org.br/validar-certificado
+
+01  LINGUAGEM DE PROGRAMAÇÃO PYTHON - BÁSICO - Código: 38C82AA6-924A-4977-B6EA-F920B797F787 
+
+02  Linguagem de Programação Java - Básico - Código: 70401B2B-3DAC-4A1A-AA8E-6F6769273617
+ 
+03  Finanças Pessoais - Código: B888A661-C8F8-47DE-8133-4EB23C7F5FBC
+
+04  Microsoft Office 365 - Conhecendo o Outlook - Código: 01C9BC2C-63BF-48B5-A634-9B3CBF9A9DFD
+
+05  Microsoft Office 365 - Conhecendo o OneDrive - Código: 21AC55FC-89D2-4F35-9803-141958027CA9 
+
+06  Lei Geral de Proteção de Dados - LGPD - Código: 12E5C6F4-1CB4-4647-9F32-04B506949B05
+
+07  Microsoft Office 365 - Conhecendo o OneNote - Código: 43A85A1A-7D3C-4300-A901-CC1B35F0BEF4
+
+08  Microsoft Excel 2016 - Básico - Código: 9B1967FE-2725-4823-8369-2DBF5844B33E
+
+09  Microsoft Office 365 - Conhecendo o Teams - Código: E7A7A65E-927B-4CEE-BF6A-83D049A8F7D5
+ 
+10 Microsoft PowerPoint 2016 - Básico - Código: 451F63C2-23AC-481C-B727-95A93141E354 
+
+11 Microsoft Office 365 - Conhecendo o Planner - Código: E9E42C0E-81CA-4C3B-93B3-578FF8C9C16F
+
+12 Crie um site simples usando HTML, CSS e JavaScript - Código: 9059564C-1C2B-45B0-A2B2-9AA14DBD50CF
+
+13 SHAREPOINT - Código: 2925A6D9-ECDF-4749-9315-5BC30B3B2C38
