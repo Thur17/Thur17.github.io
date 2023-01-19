@@ -9,9 +9,9 @@
 A proposta desse projeto de portfólio e apresentar os projetos no qual já efetuei, podemos conferir também empresas na qual já trabalhei, cursos e certificações que vim adquirindo na minha jornada. 
  
 ### Coloque traje e vamos la conferir como ficou
-[![image](https://user-images.githubusercontent.com/88401848/175353653-dfa18f7a-768d-4bab-90f3-5c6c302af982.png)](https://thur17.github.io/new-portfolio/)
+[![image](https://user-images.githubusercontent.com/88401848/175353653-dfa18f7a-768d-4bab-90f3-5c6c302af982.png)](https://thur17.github.io/)
 
-[![web 1](https://raw.githubusercontent.com/Thur17/Thur17.github.io/master/assets/IMG/Darkmod.png)](https://thur17.github.io/new-portfolio/)
+[![web 1](https://raw.githubusercontent.com/Thur17/Thur17.github.io/master/assets/IMG/Darkmod.png)](https://thur17.github.io/)
  
 ## Tecnologias utilizadas 
  HTML - CSS - JavaScript
