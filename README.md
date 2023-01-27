@@ -11,7 +11,7 @@ A proposta desse projeto de portfólio e apresentar os projetos no qual já efet
 ### Coloque traje e vamos la conferir como ficou
 [![image](https://user-images.githubusercontent.com/88401848/175353653-dfa18f7a-768d-4bab-90f3-5c6c302af982.png)](https://thur17.github.io/)
 
-[![web 1](https://raw.githubusercontent.com/Thur17/Thur17.github.io/master/assets/IMG/Darkmod.png)](https://thur17.github.io/)
+[![web 1](https://raw.githubusercontent.com/Thur17/Thur17.github.io/master/assets/IMG/2023-01-27-09-53-37.gif)](https://thur17.github.io/)
  
 ## Tecnologias utilizadas 
  HTML - CSS - JavaScript
